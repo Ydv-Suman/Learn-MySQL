@@ -11,4 +11,4 @@ VALUES
 (4, "Ashutosh", "Thapa", "ashutosh@gmail.com", 44444444, 3.8, "2027-05-15"),
 (5, "Aman", "Bhagat", "aman@gmail.com", 55555555, 3.9, "2026-05-15");
 
-SELECT * FROM students  -- displaying the data
+SELECT * FROM students  -- displaying the dataserial_number
